@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmanna-1&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmanna-1" /> </p>
 <img align="right" alt="coding" width="400" src="https://wallpapers.com/images/featured/data-science-xe1pmo7wm4jcokpd.jpg">
 
-- 🔭 I worked as Associate Trainee at TCS **LIBERTY MUTUAL (BFSI DOMAIN)**
+- 🔭 I worked as Associate Trainee at Tata Consultancy Service **LIBERTY MUTUAL (BFSI DOMAIN)**
 
-- 🌱 I’m currently learning **DSA,GEN AI**
+- 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **mannarohit235@gmail.com**
+- 📫 How to reach me **rohitmanna785@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
