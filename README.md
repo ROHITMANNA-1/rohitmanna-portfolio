@@ -4,7 +4,7 @@
 
 - 🔭 I worked as Associate Trainee at Tata Consultancy Service **LIBERTY MUTUAL (BFSI DOMAIN)**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **rohitmanna785@gmail.com**
 
